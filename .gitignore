@@ -1,0 +1,12 @@
+node_modules
+.ntvs_analysis.dat*
+npm-debug*
+coverage/
+tsd-debug.log
+lib/**/*.js*
+src/**/*.js*
+test/**/*.js*
+bin/**/*.js*
+out/
+testresults/
+.vscode/settings.json
